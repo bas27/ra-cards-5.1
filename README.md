@@ -1,4 +1,4 @@
-Карточки
+Карточки [![Build status](https://ci.appveyor.com/api/projects/status/686xcm30i6ac9r73?svg=true)](https://ci.appveyor.com/project/bas27/ra-cards-5-1)
 ===
 
 Вам необходимо реализовать компонент карточек
